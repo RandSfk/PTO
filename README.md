@@ -13,7 +13,9 @@ Script ini berisi dua bagian:
 ```
 pkg update && pkg upgrade
 pkg install python
+pkg install termux-api
 ```
+#### Install juga apk Termux:API dan Termux:Boot untuk menjalankan script otomatis setelah smartphone boot
 
 ### 2. Install dependensi Python
 ```
