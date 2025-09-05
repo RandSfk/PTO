@@ -41,7 +41,7 @@ termux-sms-list
 - Menyimpan log di /sdcard/gps_log.json
 - Mengirim log via SMS trigger:
   - "SENDLOG" → kirim ke nomor pengirim
-  - "AXIS" + password → kirim ke nomor darurat
+  - "AXIS" + otp login → kirim ke nomor darurat
 
 ### Cara pakai
 ```
